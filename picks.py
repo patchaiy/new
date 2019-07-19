@@ -1,4 +1,4 @@
-n=int(input())
+n1=int(input())
 a1=list(map(int,input().split()))
 p=[]
 q=[]
