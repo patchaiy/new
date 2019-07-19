@@ -5,4 +5,4 @@ for i in st:
     l.append(i)
   else:
     break  
-print(len(l)
+print(len(l))
