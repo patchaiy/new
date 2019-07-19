@@ -1,5 +1,5 @@
-motion12=input()
-if(motion12.find("GLGLGL") or motion12.find("GRGRGR") or motion12.find("GLLG") or motion12.find("GRRG")):
+motions=input()
+if(motions.find("GLGLGL") or motions.find("GRGRGR") or motions.find("GLLG") or motions.find("GRRG")):
     print("yes")
 else:
     print("no")
